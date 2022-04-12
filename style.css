@@ -2,6 +2,7 @@ body.index{
     background: url(https://upload.wikimedia.org/wikipedia/commons/2/29/Mohnga.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 
 #anchor{
@@ -16,12 +17,4 @@ margin: 0;
 padding: 0;
 }
 
-#recipesh1{
-font-family: Roboto;
-font-size: 150px;
-padding: auto 200px auto auto;
-}
 
-#image{
-border: 2px;
-}

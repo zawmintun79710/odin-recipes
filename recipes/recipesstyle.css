@@ -1,0 +1,58 @@
+
+section {
+  color: #fff;
+  font-family: Roboto;
+}
+
+div {
+  height: 100%;
+}
+
+article {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 150px;
+  margin: 0 0 0.75rem 0;
+  text-align: center;
+}
+
+
+.container {
+  display: table;
+  width: 100%;
+}
+
+.left-half {
+  background-color: #ff9e2c;
+  position: absolute;
+  left: 0px;
+  width: 50%;
+}
+
+.right-half {
+  background-color: #b6701e;
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}
+
+.mainingredients{
+
+}
+
+p{
+font-size: 50px;
+}
+
+a{
+  text-decoration: none;
+}
+
+
