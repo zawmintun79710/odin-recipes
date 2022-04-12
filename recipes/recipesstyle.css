@@ -21,6 +21,7 @@ h1 {
   font-size: 150px;
   margin: 0 0 0.75rem 0;
   text-align: center;
+  color: #fff;
 }
 
 
@@ -37,22 +38,33 @@ h1 {
 }
 
 .right-half {
-  background-color: #b6701e;
+  background-image: url(https://thumbs.dreamstime.com/z/burmese-mohinga-rice-noodle-fish-soup-closeup-bowl-horizontal-table-241720128.jpg);
+  background-repeat: no-repeat;
+  background-size: 1000px;
   position: absolute;
   right: 0px;
   width: 50%;
 }
 
-.mainingredients{
 
-}
 
 p{
-font-size: 50px;
+font-size: 20px;
+text-align: center;
+
 }
 
 a{
   text-decoration: none;
+  
 }
 
+ul{
+   padding: 0px 0px 0px 140px;
+   font-size: 18px;
+}
 
+ol{
+  padding: 0px 0px 0px 140px;
+  font-size: 18px;
+}

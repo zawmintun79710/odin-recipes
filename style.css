@@ -1,7 +1,9 @@
 body.index{
-    background: url(https://upload.wikimedia.org/wikipedia/commons/2/29/Mohnga.jpg);
+    background-image: url(https://thumbs.dreamstime.com/z/burmese-mohinga-rice-noodle-fish-soup-closeup-bowl-horizontal-table-241720128.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
     
 }
 
